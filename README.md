@@ -6,7 +6,7 @@ using OpenSim. We keep our main data (marker trajectories, videos, etc.) in a se
 folder outside of this repository.
 
 ## External Data Location
-We have an external folder ('C:\Users\*******\OpenCap\opencap-core\Examples\Data\e8ff6267-1ee9-44a1-b2ab-6247c61df201)
+We have an external folder ('C:\Users\*******\OpenCap\opencap-core\Examples\Data\e8ff6267-1ee9-44a1-b2ab-6247c61df201')
 - CalibrationImages
 - MarkerData
 - OpenSimData
