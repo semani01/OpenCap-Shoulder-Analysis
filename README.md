@@ -22,10 +22,10 @@ Our OpenCap data is stored externally at: C:\Users*****\Documents\Research Work\
 - **Videos** (raw and processed video data, along with keypoint outputs)
 - **README.txt** and **sessionMetadata.yaml**
 
-## Notebooks and Scripts
+## Notebooks
 - **notebooks/preprocess_marker_data.ipynb**  
   This Jupyter Notebook loads raw TRC files, applies a low-pass Butterworth filter to clean the marker data, and includes inline visualizations to compare the raw versus the filtered data. The cleaned output is saved as new TRC files in your external data folder.
-- *(Additional scripts for further processing may be added later.)*
+- *(Additional notebooks for further processing will be added periodically.)*
 
 ## How to Use
 1. **Clone this repository** to your local machine.
