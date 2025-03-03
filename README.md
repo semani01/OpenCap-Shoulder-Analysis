@@ -6,11 +6,13 @@ using OpenSim. We keep our main data (marker trajectories, videos, etc.) in a se
 folder outside of this repository.
 
 ## External Data Location
-We have an external folder ('C:\Users\*******\OpenCap\opencap-core\Examples\Data\e8ff6267-1ee9-44a1-b2ab-6247c61df201')
+We have an external folder ('C:\Users\*****\Documents\Research Work\OpenCap\opencap-core\Examples\Data\Latest_96df4120-f42a-4bed-9f01-242f71485dd4')
 - CalibrationImages
 - MarkerData
 - OpenSimData
 - Videos
+- README.txt
+- sessionMetadata.yaml
 
 ## Scripts
 - `scripts/preprocess_marker_data.py`: Filters and cleans raw TRC files, storing the 
